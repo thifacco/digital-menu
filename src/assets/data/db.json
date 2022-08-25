@@ -1,0 +1,27 @@
+{
+   "restaurant": {
+      "name": "Breaking Bad Steakhouse",
+      "description": "Restaurante bohêmio com música ao vivo todos os dias.",
+      "image": "",
+      "address": {
+         "street": "Joaquim Távora",
+         "number": "998",
+         "city": "São Paulo",
+         "state": "SP",
+         "country": "Brasil"
+      },
+      "email": "direcao@wwsteakhouse.com.br",
+      "instagram": "wwsteakhouse",
+      "phoneNumber": "11999042598"
+   },
+   "products": [
+      {
+         "id": "f71e067d-60e6-4c43-bc91-f7548e75008b",
+         "title": "Chorizo Argentino ao Chimichurri",
+         "description": "Corte de contra-filet Argentino ao molho de chimichurri, tomate e alecrim. Acompanha batatas rústicas e arroz biro-biro.",
+         "price": 119,
+         "imagePath": "https://s3.amazonaws.com/thifacco.digitalmenu/IMG_8901.jpg",
+         "category": "carnes"
+      }
+   ]
+}
